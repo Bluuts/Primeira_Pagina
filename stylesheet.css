@@ -1,0 +1,63 @@
+body{
+    font-family:Arial, Helvetica, sans-serif ;
+    background-color: #badb73; 
+    color: #111;
+    }
+
+
+    h1{
+        text-align: center;
+        color:darkgreen;
+        text-shadow: 5px 5px 5px #8db986;
+    }
+    
+h2{
+    text-align: center ;
+    color: #373737; 
+ 
+}
+
+h3{
+    text-align: center ;
+    color:#373737;
+}
+
+
+    img#ntx{
+        margin-left:44%;
+        width:10%;
+    
+    }
+
+    img#camp{
+        margin-left:0%;
+        width:5%;
+    
+    }
+    
+
+    ima{
+        margin: auto;
+    }
+
+    img#fog{
+        margin-left:0%;
+        width:5%;
+    
+    }
+    
+
+    ima{
+        margin: auto;
+    }
+
+    img#home{
+        margin-left:50%;
+        width:8%;
+    
+    }
+
+    ima{
+        margin:auto ; 
+    }
+
